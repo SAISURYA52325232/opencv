@@ -1,6 +1,11 @@
 ## OpenCV: Open Source Computer Vision Library
 
-### Resources
+### it is devloped by saisurya5232
+*adding feature 1
+
+*adding feature 2
+
+*adding feature 3
 
 * Homepage: <https://opencv.org>
   * Courses: <https://opencv.org/courses>
